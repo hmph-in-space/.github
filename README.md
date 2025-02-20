@@ -38,8 +38,10 @@ We welcome everyone! Here's how you can contribute:
 
 ## 📡 Contact
 
-📧 Email: [wnbe@hmphin,space]
+📧 Email: [wnbe@hmphin.space]
+
 🌍 Website: [hmphin.space]
+
 🐙 GitHub: [github.com/hmph-in-space]
 
 ---
